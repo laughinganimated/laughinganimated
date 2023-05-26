@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://laughinganimated.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/gb7pg3e6p?key=f11ad9e1c26df8c9d58ecff55563a813/` + encodeURI(path as string)
 				}`,
 			},
 		};
